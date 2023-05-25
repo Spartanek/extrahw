@@ -1,0 +1,14 @@
+div {
+  width: 200 px;
+  height: 200 px;
+  background-color: darkcyan;
+  border-style: dashed;
+  border-color: lightgrey;
+}
+p {
+  font-size: 14px;
+  color: #111111;
+}
+span {
+  display: block;
+}
