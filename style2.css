@@ -21,7 +21,26 @@ nav .menu {
 input:focus {
   color: green;
 }
-#first:hover {
+.menu:hover {
+  color: blue;
+}
+.menu:active {
+  color: pink;
+}
+#first {
+  background-color: limegreen;
+}
+#second {
+  background-color: rgb(13, 90, 13);
+}
+#third {
+  background-color: rgb(146, 222, 146);
+}
+#fourth {
+  background-color: rgb(10, 253, 10);
+}
+
+/* #first:hover {
   color: blue;
 }
 
@@ -47,4 +66,4 @@ input:focus {
 }
 #fourth:active {
   color: pink;
-}
+} */
